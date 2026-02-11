@@ -5,8 +5,8 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DayuanJiang/next-ai-draw-io
-cd next-ai-draw-io
+git clone https://github.com/David-GAPV/Drawio-by-AI
+cd Drawio-by-AI
 npm install
 ```
 
